@@ -4,7 +4,7 @@ BasicInfo:
   Photo: img/avatar.jpg
   Contacts:
     - Icon: fas fa-map-marker-alt
-      Info: CZE 🇨🇿 / Slovakia 🇸🇰
+      Info: Czechia 🇨🇿 / Slovakia 🇸🇰
     - Icon: fab fa-linkedin
       Info: <a class="contact__link" href="https://linkedin.com/in/adam-radvan" target="_blank">/adam-radvan</a>
     - Icon: fab fa-github
@@ -36,7 +36,7 @@ Experience:
       - Title: Java Seminars Tutor
         Date: 02.2022 - Present
         Details:
-          - Conducted seminars on Enterprise Java & Java with OOP basics, covering topics such as Java 17, Git, Spring, Hibernate, and Maven.
+          - Conducted seminars on Enterprise Java & Java with OOP basics, covering topics such as OOP basics, Java 11, Git, Spring, Hibernate, and Maven.
           - Performed thorough code reviews to provide constructive feedback in order to improve code quality of the students.
           - Provided comprehensive explanations of knowledge domains to enhance learning outcomes.
         Badges: ['Java Basics', 'OOP', 'Git', 'Spring', 'Hibernate', 'Maven']
@@ -50,7 +50,7 @@ Education:
         Details:
           - Specialistation - Design and development of software systems
           - Thesis - Module for automatic detection of attribute changes in entities
-          - Expected graduation 06/2023
+          - Expected graduation 06.2023
         Badges: ['Enterprise Java',  'React', 'Flutter', 'Database systems', 'Design Patterns', 'Project managment']
   - Employer: HTWG - University of Applied Sciences
     Place: Konstanz, GER 🇩🇪
