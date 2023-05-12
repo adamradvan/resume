@@ -1,0 +1,103 @@
+BasicInfo:
+  FirstName: Adam
+  LastName: Radvan
+  Photo: img/avatar.jpg
+  Contacts:
+    - Icon: fas fa-map-marker-alt
+      Info: CZE 🇨🇿 / Slovakia 🇸🇰
+    - Icon: fab fa-linkedin
+      Info: <a class="contact__link" href="https://linkedin.com/in/adam-radvan" target="_blank">/adam-radvan</a>
+    - Icon: fab fa-github
+      Info: <a class="contact__link" href="https://github.com/adamradvan/" target="_blank">/adamradvan</a>
+
+Profile: 
+  🌱 Aspiring engineer with a strong passion for Java and the Spring framework ecosystem.<br>
+  ☁️ Motivated to explore cloud technologies, architectural design, and full-stack development.<br>
+  🔧 Committed to advancing skills and making an impact on innovative projects in the industry.<br>
+  🔨 Dedicated to refining and reviewing code to ensure a clean and efficient codebase.<br>
+  👥 Eager to gain experience from skilled co-workers and eager to share the knowledge with more junior colleagues.<br>
+
+Experience:
+  - Employer: inQool a.s.
+    Place: Brno, CZE 🇨🇿
+    Positions:
+      - Title: Java developer
+        Date: 07.2019 - Present
+        Details:
+          - Developed and maintained various web information systems for Czech government and institutions.
+          - Mentored junior team members and performed code reviews.
+          - Collaborated within agile teams and also functioned as a self-directed developer.
+          - Demonstrated commitment by working overtime during critical periods to ensure project delivery and deadline adherence.
+          - Proactively optimized and refactored codebase during less demanding times to improve overall system efficiency.
+        Badges: ['Spring Boot', 'Hibernate', 'Querydsl', 'Liquibase', 'SQL', 'Elasticsearch', 'Swagger', 'Docker', 'Agile']
+  - Employer: Masaryk University
+    Place: Brno, CZE 🇨🇿
+    Positions:
+      - Title: Java Seminars Tutor
+        Date: 02.2022 - Present
+        Details:
+          - Conducted seminars on Enterprise Java & Java with OOP basics, covering topics such as Java 17, Git, Spring, Hibernate, and Maven.
+          - Performed thorough code reviews to provide constructive feedback in order to improve code quality of the students.
+          - Provided comprehensive explanations of knowledge domains to enhance learning outcomes.
+        Badges: ['Java Basics', 'OOP', 'Git', 'Spring', 'Hibernate', 'Maven']
+
+Education:
+  - Employer: Masaryk University
+    Place: Brno, CZE 🇨🇿
+    Positions:
+      - Title: Master | Software Engineering
+        Date: 2020 - Present
+        Details:
+          - Specialistation - Design and development of software systems
+          - Thesis - Module for automatic detection of attribute changes in entities
+          - Expected graduation 06/2023
+        Badges: ['Enterprise Java',  'React', 'Flutter', 'Database systems', 'Design Patterns', 'Project managment']
+  - Employer: HTWG - University of Applied Sciences
+    Place: Konstanz, GER 🇩🇪
+    Positions:
+      - Title: Master | Computer Science
+        Date: 09.2022 - 02.2023
+        Details:
+          - Erasmus+ study exchange programme
+        Badges: ['Cloud Application Development', 'International Project Development', 'Ubiquitous Computing']
+  - Employer: Masaryk University
+    Place: Brno, CZE 🇨🇿
+    Positions:
+      - Title: Bachelor | Applied Informatics
+        Date: 2017 - 2020
+        Details:
+          - Thesis - Search API in knowledge base application
+        Badges: ['Java', 'C#', 'Software Quality', 'Software engineering']
+  
+
+Skills:
+  - Family: Technologies
+    Items:
+      - Java
+      - Hibernate
+      - Spring Framework
+      - SQL
+      - Liquibase
+      - React
+      - Flutter
+      - Git
+      - Docker
+      - Google Cloud
+      - AWS
+  - Family: Strengths
+    Items:
+      - Flexibility
+      - Adaptability
+      - Responsibility
+      - Curiosity
+      - Open minded
+      - Problem-solving
+      - Time management
+
+Languages:
+  - Name: 🇬🇧 English 
+    Level: C1
+  - Name: 🇩🇪 German 
+    Level: A2
+  - Name: 🇸🇰 Slovak
+    Level: Native
